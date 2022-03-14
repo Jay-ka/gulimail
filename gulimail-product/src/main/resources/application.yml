@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 2521005911Kh
+    url: jdbc:mysql://rm-bp16x63sy22z69nst2o.mysql.rds.aliyuncs.com:3306/gulimall_pms
